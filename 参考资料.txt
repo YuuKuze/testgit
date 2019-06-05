@@ -51,3 +51,7 @@ https://wenku.baidu.com/view/6a7b0370d1f34693dbef3e6a.html
 http://vdisk.weibo.com/s/zESKqIBWlzzOE
 
 8704
+-----------------------------------------------------------mysql java对数据库操作失败，回滚操作
+https://www.cnblogs.com/ttjsndx/p/8687417.html
+----------------------------------------------------------- web的表单控件教程
+https://www.cnblogs.com/xiaojiaolee/p/7648289.html
