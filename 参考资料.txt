@@ -53,5 +53,6 @@ http://vdisk.weibo.com/s/zESKqIBWlzzOE
 8704
 -----------------------------------------------------------mysql java对数据库操作失败，回滚操作
 https://www.cnblogs.com/ttjsndx/p/8687417.html
------------------------------------------------------------ web的表单控件教程
-https://www.cnblogs.com/xiaojiaolee/p/7648289.html
+
+-----------------------------------------------------------springboot 接收ajax参数传递
+https://blog.csdn.net/qq_41709801/article/details/84798219
